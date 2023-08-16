@@ -1,14 +1,23 @@
 .banner {
     display: block;
     box-sizing: content-box;
-    padding: 0cm;
-    margin: 45px;
-    width: 900px;
+    padding: 20px;
+    margin: 10px;
+    width: 400px;
     height: 250px;
-    border: 1px solid #ccc
-    backgrou
-   
-    
-    
-    
+    border: 1px solid #ccc;
+    background-color: bisque;   
+    flex-direction: column;    
+}
+
+#sobre {
+    background-color: burlywood;
+}
+
+#midias {
+    background-color: aquamarine;
+}
+
+#redes {
+    background-color: blanchedalmond;
 }
